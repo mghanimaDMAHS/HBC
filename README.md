@@ -1,2 +1,2 @@
 # HBC
-For All Oracle code for the HBC project
+For all Oracle code for the HBC project
